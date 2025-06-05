@@ -7,7 +7,7 @@ If you enjoy using my projects or find them helpful, you’re welcome to support
 **Goal: 100 TON**
 
 🕓 Started: Apr 18, 2025 — end date TBD
-> 📦 Progress: [████░░░░░░░░░░░░░░░░] 15.01 / 100 TON
+> 📦 Progress: [██████░░░░░░░░░░░░░░] 28.22 / 100 TON
 
 **TON wallet for donations:**  
 `UQCZq3_Vd21-4y4m7Wc-ej9NFOhh_qvdfAkAYAOHoQ__Ness`
@@ -16,8 +16,8 @@ If you enjoy using my projects or find them helpful, you’re welcome to support
 
 | 💎 Name / Address | 💰 Amount (TON) |
 |-------------------|-----------------|
-| cron              | 10              |
-| thegateway.ton    | 3.3             |
+| cron              | 20              |
+| thegateway.ton    | 6.66            |
 | vtonsdk.t.me      | 1.68 (5 USD₮)   |
 
 Thanks for using my work - your support means a lot and helps me keep building cool things 🚀
